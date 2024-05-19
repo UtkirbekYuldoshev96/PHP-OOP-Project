@@ -16,7 +16,6 @@ class Database
         $this->password = $password;
 
         $this->connetc();
-        
     }
 
     public function connetc()
